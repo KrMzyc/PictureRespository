@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 BEV推理.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="16.0354in" height="11.6929in"
+		viewBox="0 0 1154.55 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st20">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#dbeef3;fill-opacity:0.36;stroke:#4bacc6;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#000000;font-family:Times New Roman;font-size:0.833336em}
+		.st3 {fill:#ebf1df;fill-opacity:0.29;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st4 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:#000000;font-family:宋体;font-size:1.00001em}
+		.st6 {font-size:1em}
+		.st7 {marker-end:url(#mrkr4-23);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st8 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.37313432835821}
+		.st9 {font-family:Times New Roman;font-size:1em}
+		.st10 {fill:#000000;font-family:Times New Roman;font-size:0.75em}
+		.st11 {fill:#f2dcda;fill-opacity:0.59;stroke:#c05046;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st12 {fill:#000000;font-family:宋体;font-size:0.75em}
+		.st13 {fill:#fff2cc;fill-opacity:0.52;stroke:#ffc000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st14 {fill:#000000;font-family:宋体;font-size:0.833336em}
+		.st15 {fill:#f2dcda;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st16 {fill:#fff2cc;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st17 {fill:#000000;font-family:Times New Roman;font-size:1.00001em}
+		.st18 {font-family:宋体;font-size:1em}
+		.st19 {fill:#000000;font-family:宋体;font-size:1.5em}
+		.st20 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-23" class="st8" v:arrowType="4" v:arrowSize="2" v:setback="5.36" refX="-5.36" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-2.68,-2.68) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(68.0315,-751.181)">
+			<title>矩形</title>
+			<desc>img</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="823.529" width="56.7" height="36.7215"/>
+			<rect x="0" y="805.168" width="56.6929" height="36.7215" class="st1"/>
+			<text x="20.57" y="826.53" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>img</text>		</g>
+		<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(68.0315,-671.94)">
+			<title>矩形.2</title>
+			<desc>img</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="823.529" width="56.7" height="36.7215"/>
+			<rect x="0" y="805.168" width="56.6929" height="36.7215" class="st1"/>
+			<text x="20.57" y="826.53" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>img</text>		</g>
+		<g id="shape3-7" v:mID="3" v:groupContext="shape" transform="translate(269.291,-557.755)">
+			<title>矩形.3</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<rect x="0" y="577.011" width="535.181" height="264.878" class="st3"/>
+		</g>
+		<g id="shape5-9" v:mID="5" v:groupContext="shape" transform="translate(91.4173,-736.299)">
+			<title>工作表.5</title>
+			<desc>. . .</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="4.96063" cy="837.992" width="9.93" height="7.79528"/>
+			<rect x="0" y="834.094" width="9.92126" height="7.79528" class="st4"/>
+			<text x="4" y="834.39" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>.<v:newlineChar/><tspan
+						x="4" dy="1.2em" class="st6">.<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st6">.</tspan></text>		</g>
+		<g id="shape6-14" v:mID="6" v:groupContext="shape" transform="translate(174.195,-698.605)">
+			<title>工作表.6</title>
+			<rect v:rectContext="foreign" x="0" y="779.256" width="62.6334" height="62.6334" class="st4"/>
+			<image x="0" y="779.256" width="62.6334" height="62.6334" preserveAspectRatio="none" xlink:href="data:image/png;base64,
+						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
+						aiQlAAAAAElFTkSuQmCC"/>
+			<rect v:rectContext="foreign" x="0" y="779.256" width="62.6334" height="62.6334" class="st4"/>
+		</g>
+		<g id="shape23-18" v:mID="23" v:groupContext="shape" v:layerMember="0" transform="translate(127.559,-722.835)">
+			<title>动态连接线</title>
+			<path d="M0 834.8 L38.6 834.8" class="st7"/>
+		</g>
+		<g id="shape24-24" v:mID="24" v:groupContext="shape" transform="translate(57.4016,-654.803)">
+			<title>工作表.24</title>
+			<desc>时间戳 t</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="38.9764" cy="834.803" width="77.96" height="14.1732"/>
+			<rect x="0" y="827.717" width="77.9528" height="14.1732" class="st4"/>
+			<text x="17.81" y="838.75" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>时间戳<tspan class="st9"> </tspan><tspan
+						class="st9">t</tspan></text>		</g>
+		<g id="shape26-29" v:mID="26" v:groupContext="shape" transform="translate(166.535,-683.214)">
+			<title>工作表.26</title>
+			<desc>ResNet-101</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="38.9764" cy="834.803" width="77.96" height="14.1732"/>
+			<rect x="0" y="827.717" width="77.9528" height="14.1732" class="st4"/>
+			<text x="17.48" y="837.5" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>ResNet-101</text>		</g>
+		<g id="shape27-32" v:mID="27" v:groupContext="shape" transform="translate(304.724,-712.205)">
+			<title>矩形.27</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<rect x="0" y="806.457" width="156.343" height="35.4331" class="st11"/>
+		</g>
+		<g id="shape28-34" v:mID="28" v:groupContext="shape" transform="translate(347.463,-719.646)">
+			<title>工作表.28</title>
+			<rect v:rectContext="foreign" x="0" y="821.339" width="70.8661" height="20.5512" class="st4"/>
+			<switch>
+				<foreignObject x="0" y="821.339" width="70.8661" height="20.5512"
+						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+					<v:foreignData v:dataType="ole" v:type="33280" v:orgSize="5120" v:data="data:metafile;base64,eNrtVl9oW1UY/51
+								zk7RJo0l0VVvneluY6HDdJjLwobI0vXcbmBjXiChIlmWXeaVJ2iZNLWNMLQzZS33wWeabDyIoiCB7mOxtyhR88GkwH/bskPs
+								2TPy+c89tu6yDJCtCpV/69ZzznXO/73x/z/fbr6nbX347+ic64DUYaLWjiGyiCY0KkoDU61a73Q7I7V3YUfAP4YD2YYjGMCH
+								7fFDTWrsm+l/DKdTo14AJC1UaF7GCXuApipiAF9cD46ZU9Gv+tr3VNwbvDwY15Q3MwUG/EIMUm/Xp9rs96zUtQ/pXME/3OIM
+								Pepb/BMkXWqdu5fN5V8+l1j9PlndQx2H16x6e0fqHepDPd31dF/aW9ltn/g/oGhBVNgaGCOOEjxE+TpjwnwCklA2AJ7VNh1V
+								MAE+ruwEjhKOEzxLu1XL20ThGaBKOE05o+i789yD8Z7xvEOQ5I+bHXmfucxxkS433Cyvzjnl08rBpLSyVGm6tqiJpfceyVTQ
+								Fm5Mzs9nCK/Be/W6hC/lKLo0hnVdBHWL4hgL4C1rEIrxHkWyEDVb3htrlSPdzl2dCcvLwbFKMaNqQDM7F5Wl5e4Bz4PlIgm4
+								f3B04raKfqaM6/zgrrtHsR8IrlEaj0ucRZW6SZ3ukIYcFZ8M9OaEz9jOhy0Gy4Facuplzls1TtUqpiq9+H8Gbx8eaZnR/E1r
+								Tg8LPypdj/kdA48i74avC535F3JE+949a/XEXarz7gJTzF16QZEUl5UXxXsSXUlzXQfSogy9FqKriS2FK03WWbRykx2Naa/Q
+								Xfgp32kv0qVF0XRZzyH0dWM3D96FHk7Ghz/0yXDuQYcizoe3So8P/blZs+N9Gp//71eR+Kbb9jhH435CIbBHDgqXMrlTO1Ob
+								QvL4w3jxGxN58MuVuaHJLbBHJPch4mE+mqBrc0Jl7WaTn5+tZO5MRKNMm44xTd89Vzdmy61TLzkvmyWp5EmGBSJTL01F68N5
+								2q+m5uelS3S1namedfOmcU0cq3GnglKEvmgpnakuLrrPIm0iFsgXT+rCxWAo4bWIS+fnmL3eosAyOH7LWZg6l814ycbyYzv8
+								9to/mw4k0PMvb761NF2mWTGR4WLO8A8UT3pqiHKPx4gmapA8UZ4qWx3/pRFyQ6kISkP0EmcQAuyCMGBt01aY1PdNDvPi4QWY
+								i78vQpSlMSXxyPjjxnD6x2vD9sMqdTIxOXNi86SL48tMj+lzOZx9Xi6Y+hFWH/y0radC9BvskBv066b7hnkyqngS4yoF4idS
+								YmF2pN5wKmuO4zFVe9S0856/yt0YeiDLjIW9ILp072e/7t1dlxg/XOWY+x1vy7h8FRY/TfCeEi4UFLKFEnb9LfXCVerKcXjW
+								76spN0r7X/puiBBcFtg366f+3E3ay/B1eLnbhEeFfA3ASgg=="/>
+				</foreignObject>
+				<svg viewBox="0 0 914.46 265.86" enable-background="new" color-interpolation-filters="sRGB" height="20.5512"
+						preserveAspectRatio="none" width="70.8661" x="0" y="821.339">
+					<defs>
+						<clipPath id="mfid2">
+							<rect id="mfid3" x="0" y="0" width="914.46" height="265.86"/>
+						</clipPath>
+					</defs>
+					<g clip-path="url(#mfid2)">
+						<mask id="mfid1" fill-rule="evenodd">
+							<g>
+								<rect width="914" height="266" fill="white" stroke="none"/>
+							</g>
+						</mask>
+						<g mask="url(#mfid1)">
+							<g transform="matrix(0.45337, 0, 0, 0.4375, 0, 0)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="222">
+										<text stroke="none" fill="#000000" x="0,1370,1814" y="0" transform="translate(277,515)"
+												xml:space="preserve">t1</text>
+									</g>
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="384">
+										<text stroke="none" fill="#000000" x="0,552,1320" y="0" transform="translate(741,416)"
+												xml:space="preserve">{}</text>
+									</g>
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="italic" font-weight="400"
+											font-size="161">
+										<text stroke="none" fill="#000000" x="0,70,115,185,507" y="0"
+												transform="translate(1629,297)" xml:space="preserve">view</text>
+									</g>
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="italic" font-weight="400"
+											font-size="222">
+										<text stroke="none" fill="#000000" x="0,444" y="0" transform="translate(1473,239)"
+												xml:space="preserve">N</text>
+										<text stroke="none" fill="#000000" x="0,444" y="0" transform="translate(1205,244)"
+												xml:space="preserve">i</text>
+										<text stroke="none" fill="#000000" x="0,333,777" y="0" transform="translate(1124,515)"
+												xml:space="preserve">ti</text>
+									</g>
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="italic" font-weight="400"
+											font-size="384">
+										<text stroke="none" fill="#000000" x="0,857,1625" y="0" transform="translate(70,416)"
+												xml:space="preserve">FF</text>
+									</g>
+									<g font-family="&#39;S&#39;" font-style="normal" font-weight="400" font-size="222">
+										<text stroke="none" fill="#000000" x="0,444" y="0" transform="translate(1536,515)"
+												xml:space="preserve"></text>
+									</g>
+									<g font-family="&#39;S&#39;" font-style="normal" font-weight="400" font-size="384">
+										<text stroke="none" fill="#000000" x="0,768" y="0" transform="translate(477,416)"
+												xml:space="preserve"></text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid4" fill-rule="evenodd" fill="white" stroke="none">
+							<rect x="0" y="0" width="914" height="266"/>
+						</mask>
+					</g>
+				</svg>
+			</switch>
+			<rect v:rectContext="foreign" x="0" y="821.339" width="70.8661" height="20.5512" class="st4"/>
+		</g>
+		<g id="shape29-37" v:mID="29" v:groupContext="shape" v:layerMember="0" transform="translate(240.945,-722.835)">
+			<title>动态连接线.29</title>
+			<path d="M0 834.8 L55.74 834.8" class="st7"/>
+		</g>
+		<g id="shape31-42" v:mID="31" v:groupContext="shape" transform="translate(343.919,-751.181)">
+			<title>工作表.31</title>
+			<desc>视图特征</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="38.9764" cy="834.803" width="77.96" height="14.1732"/>
+			<rect x="0" y="827.717" width="77.9528" height="14.1732" class="st4"/>
+			<text x="20.98" y="837.76" class="st12" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>视图特征</text>		</g>
+		<g id="shape32-45" v:mID="32" v:groupContext="shape" transform="translate(347.244,-694.285)">
+			<title>工作表.32</title>
+			<rect v:rectContext="foreign" x="0" y="827.514" width="85.0394" height="14.3761" class="st4"/>
+			<switch>
+				<foreignObject x="0" y="827.514" width="85.0394" height="14.3761"
+						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+					<v:foreignData v:dataType="ole" v:type="33280" v:orgSize="5120" v:data="data:metafile;base64,eNrtVt9rW1Uc/5x
+								zk65Jo0nm6myd621heyhbN2UM9GE0S2+2PjRma6YvQpbWy3alSdokjQYf7BAGilD/AJH5NvqmMPShD4OBDzq7QRFFEObD3vY
+								wxmVDxGTf77nnlppZTNsVqfZ7873ne77n5vvrfL/fc27fit/54sve39ACJ2Cg0QyhYxVPaFQQA6SeN5rNps9u7sC2gj8Jd+k
+								9DNAYJOQ979S8xk6I/tNwFiV6qjBhoUhjGXWsB56njPFlcT8wlqTiX/eWU3/3H4NwuNPvKa9jCjY2CmFIsdqfdv+3Z6WnJcn
+								/AqbJjgm8s279u0m/0D61q5+/dzQttf8ZiryNCo6qp314QfsfWId+tvWYbuwNvW+t9b9L94CQijHQRRghfIbwWcKodwQgrmI
+								APKdj2q1yAtirbAN6CHsJX9Q6XqJxP2Efoal5O/DvgfCO8Q2DoB00wl7utdY+58FYvnoxW5+2zeNDR01rZjZfdUpFlUkrK1Z
+								KZZO/ODQyPpY9BvfVr2ba0K/00hjQdeX3IYaXKVE/p8mDIK9RJhu/S3Z3Qa1ypnu1y5SQXDxMDYkezeuS/ncReV7eiXANHOy
+								IkvW+7cB5lf3M7dX1x1VxnahrhFfI0W7pyQixNMnUHuniLbGPqD/kgK7YT5UlZFws6xTsipm23zXPlgr5Iq4u9+DMqb6aGTp
+								Qg/b0sPAq85XwSj9ZXhSebEN2bVK2UOP9J3RU4eu4IlLwdMw1Nmq/p0Oo7uLp4AClnIkADF/LVdGqhV6X+cPvl27eBUm8MdN
+								fGybmP3nyVy1LC3PE25zstTy49su9Tctey+5vHm6d3d8tz22Z3T8sbp3dN3/eOrt/fMSH5YKu8FGRmJ6ujKWSSYEB+pZxxK4
+								4F4rm+KRjFyftQ+ZocXIIQYGOELex43QwvukUE1NTJ/MVZzJZetvO5C/YFcSDrWUSN8brhYnSFC0lS7Nlxy7zIuKBsaxpvVc
+								t531Jq4R0KO92o7P/iDU/ciSRcWPRU7lE5kHffqK7owm4lnvAnT+ZIyoWTfIwb7mDudPuvOIM0/jBaSISg7mRnOXyLxGNCCp
+								3IQkoCIKCY4ADFERYEOPDFM3pGO9Skyq3Bhr5PhOW+OS1NL0Ova84RA3y9NuP6NV4g171Mr0u5YB7YR3TMPQpBH8PY+ruASz
+								yBlwmMwbG65WqXUCtHx9L3iG+n3g0kPm154n8MNY4K9KJ9Ggrb5/a6a9v8F5+hnPy/k9ZxY8Q/X/YRgszmEWeertD9+Ai3cn
+								SelZr61Zukqj13r855icEnhps5P7/NGFb699UGe/AdofHh54uKA=="/>
+				</foreignObject>
+				<svg viewBox="0 0 914.46 155.01" enable-background="new" color-interpolation-filters="sRGB" height="14.3761"
+						preserveAspectRatio="none" width="85.0394" x="0" y="827.514">
+					<defs>
+						<clipPath id="mfid6">
+							<rect id="mfid7" x="0" y="0" width="914.46" height="155.01"/>
+						</clipPath>
+					</defs>
+					<g clip-path="url(#mfid6)">
+						<mask id="mfid5" fill-rule="evenodd">
+							<g>
+								<rect width="914" height="155" fill="white" stroke="none"/>
+							</g>
+						</mask>
+						<g mask="url(#mfid5)">
+							<g transform="matrix(0.27731, 0, 0, 0.25493, 0, 0)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="italic" font-weight="400"
+											font-size="222">
+										<text stroke="none" fill="#000000" x="0,444" y="0" transform="translate(348,244)"
+												xml:space="preserve">i</text>
+										<text stroke="none" fill="#000000" x="0,444" y="0" transform="translate(267,515)"
+												xml:space="preserve">t</text>
+									</g>
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="italic" font-weight="400"
+											font-size="384">
+										<text stroke="none" fill="#000000" x="0,1122,1890" y="0" transform="translate(70,416)"
+												xml:space="preserve">Fi</text>
+									</g>
+									<g font-family="&#39;媅S&#39;" font-style="normal" font-weight="400" font-size="384">
+										<text stroke="none" fill="#000000" x="0,384" y="0" transform="translate(424,416)"
+												xml:space="preserve">为</text>
+										<text stroke="none" fill="#000000" x="0,492" y="0" transform="translate(808,416)"
+												xml:space="preserve">第</text>
+										<text stroke="none" fill="#000000" x="0,384" y="0" transform="translate(1300,416)"
+												xml:space="preserve">个</text>
+										<text stroke="none" fill="#000000" x="0,384" y="0" transform="translate(1684,416)"
+												xml:space="preserve">视</text>
+										<text stroke="none" fill="#000000" x="0,384" y="0" transform="translate(2068,416)"
+												xml:space="preserve">图</text>
+										<text stroke="none" fill="#000000" x="0,384" y="0" transform="translate(2452,416)"
+												xml:space="preserve">特</text>
+										<text stroke="none" fill="#000000" x="0,768" y="0" transform="translate(2836,416)"
+												xml:space="preserve">征</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid8" fill-rule="evenodd" fill="white" stroke="none">
+							<rect x="0" y="0" width="914" height="155"/>
+						</mask>
+					</g>
+				</svg>
+			</switch>
+			<rect v:rectContext="foreign" x="0" y="827.514" width="85.0394" height="14.3761" class="st4"/>
+		</g>
+		<g id="shape33-48" v:mID="33" v:groupContext="shape" transform="translate(347.244,-674.956)">
+			<title>工作表.33</title>
+			<rect v:rectContext="foreign" x="0" y="828.337" width="61.9228" height="13.5528" class="st4"/>
+			<switch>
+				<foreignObject x="0" y="828.337" width="61.9228" height="13.5528"
+						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+					<v:foreignData v:dataType="ole" v:type="33280" v:orgSize="4608" v:data="data:metafile;base64,eNrtFk1rE1Fw3m4
+								STRpN4mdTi24LehCNIiJ+gCQmWy2YGE3UY4xx0dV8J00NHqwIgiLEH+BBT4o3vXgpUhA8+FGFgr0oKOJdJDdp4szbtxqjlaQ
+								qqHSSeW/evN352pl578Vzz5ubd/veQhvsBhkaTTvYWnhMIAc3gCTWjWazabKb8/BPwQyiTXxDC85WxAVi3ZgPz38PhyCHvzI
+								ooEIW5yJUoRtYgRljyqJ+IE9KnD9hbA/96B0Z0b/A7CkHIA0azBUcILFWfzp9b9mXnhZE/zOQRzuOw+mu9S9B/Uz41Kl+el4
+								XtCT8j2LkNSjBZv7rHHqF/5Yu9JOtvVaDbojv1lr/NtEDFiLaeYwBehCdiIsQFyO6jCMAPDwGAEtFTJfznABYKWR6ce5DXIX
+								YL3jz8PcAM47xOQPDLyo7jNxrr33Kg3CyfCpezWvKNt9mRS2MJMt6Lssz6cuOOsSzydz0hWLh+Fao77hX6EA/14uzRdSV2Yc
+								IZjBpz+HipYX2MJPlMxK5e4vvUqYbtUsUk6h4iPIxr+D1SOZzTskvvXFQDayzudB603aAYzz7idsn6o+qYgKpB4g3MDINZsi
+								wkzSJqGXSO5ZiVA2fpEFRsdeYaAfuuJ7RSkpEG1UO5TLJLNye8sLBvWsqin1tBYSnG5lRiVscJqeia6Nn8NaWhHFm6Bhj+8H
+								QMdYwdbCudDA+f2BGFzB0kYRIFWRTx6DcrgOHS5RTTyafvgeU97AwUPEjczY/DB2MdxlDBwVq8s4YA/g12V/t/1b246lflz2
+								b3c/G/5zd06/+nN2PZ+hYuCVyOcgC+XwpPBQMMugnnYghraSfzCqxlK5lU9oGZTib8oGVgc1OBbsNj4CjejaQTu9JlvRUMHd
+								CiyZPaiXwWNuTzSPHqpnjuTRuBXMjRV0r0iZ4LOG4op4tF5OmpBYhNu7dElg4sEmthTYFonW3a28iEP24ZjXSy10BqKv1tfX
+								angRSbleQpppaX5/YV69xjh/n8/uQCKxPhBJqnf4Bl5NhQjMJAYPAMCgyUPCt4GDIuBjBNR5cPbS4UKFBp0GjYRRrAYMowdW
+								dERweXcahcQSHXcdwoNbAI0zRdIDotGB+PTcY159xCv0lNGAwVi2VtQxUBuCKRG/SGUw0vRV97f0uM+RZ+mEkEBnupn+rUIA
+								R7BplvJHk8AaoQESsKh3dyhSMRbf3r17E7Qx+G8zl/vc74V/W38/r//5DqvDrcFj6MB3nfCfS88X9k+L+T+AzxekN9w=="/>
+				</foreignObject>
+				<svg viewBox="0 0 914.46 200.67" enable-background="new" color-interpolation-filters="sRGB" height="13.5528"
+						preserveAspectRatio="none" width="61.9228" x="0" y="828.337">
+					<defs>
+						<clipPath id="mfid10">
+							<rect id="mfid11" x="0" y="0" width="914.46" height="200.67"/>
+						</clipPath>
+					</defs>
+					<g clip-path="url(#mfid10)">
+						<mask id="mfid9" fill-rule="evenodd">
+							<g>
+								<rect width="914" height="201" fill="white" stroke="none"/>
+							</g>
+						</mask>
+						<g mask="url(#mfid9)">
+							<g transform="matrix(0.3283, 0, 0, 0.34896, 0, 0)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="222">
+										<text stroke="none" fill="#000000" x="0,107,169,266,710" y="0"
+												transform="translate(355,483)" xml:space="preserve">view</text>
+									</g>
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="italic" font-weight="400"
+											font-size="384">
+										<text stroke="none" fill="#000000" x="0,768" y="0" transform="translate(76,384)"
+												xml:space="preserve">N</text>
+									</g>
+									<g font-family="&#39;媅S&#39;" font-style="normal" font-weight="400" font-size="384">
+										<text stroke="none" fill="#000000" x="0,384" y="0" transform="translate(802,384)"
+												xml:space="preserve">为</text>
+										<text stroke="none" fill="#000000" x="0,384" y="0" transform="translate(1186,384)"
+												xml:space="preserve">视</text>
+										<text stroke="none" fill="#000000" x="0,384" y="0" transform="translate(1570,384)"
+												xml:space="preserve">图</text>
+										<text stroke="none" fill="#000000" x="0,384" y="0" transform="translate(1954,384)"
+												xml:space="preserve">总</text>
+										<text stroke="none" fill="#000000" x="0,768" y="0" transform="translate(2338,384)"
+												xml:space="preserve">数</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid12" fill-rule="evenodd" fill="white" stroke="none">
+							<rect x="0" y="0" width="914" height="201"/>
+						</mask>
+					</g>
+				</svg>
+			</switch>
+			<rect v:rectContext="foreign" x="0" y="828.337" width="61.9228" height="13.5528" class="st4"/>
+		</g>
+		<g id="shape34-51" v:mID="34" v:groupContext="shape" transform="translate(333.071,-618.458)">
+			<title>矩形.34</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<rect x="0" y="803.215" width="99.2126" height="38.6746" class="st13"/>
+		</g>
+		<g id="shape35-53" v:mID="35" v:groupContext="shape" transform="translate(366.575,-624.821)">
+			<title>工作表.35</title>
+			<rect v:rectContext="foreign" x="0" y="815.942" width="32.2041" height="25.9482" class="st4"/>
+			<switch>
+				<foreignObject x="0" y="815.942" width="32.2041" height="25.9482"
+						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+					<v:foreignData v:dataType="ole" v:type="33280" v:orgSize="4096" v:data="data:metafile;base64,eNrtVkFsEkEU/TM
+								LWCgKaG2kNnbbWE0aS1tjmngxLLC0PYC1YDwixU1dAwsFihIP1ph48IK3nr1414uXHkw8aqoHE08ajdF4bMzeTME/s7OkaTS
+								Bppem/cvf+fOHmT///3l/9sP7wNdnLwa+wQ66AhI0W25wbdMRwZz8AFT0m61Wy1a3Dmlf0RayU+TQga1LyM3D0BwIWoAiPlW
+								QQQUD2zLUoRvqB2cb86weSBuU619bw/F/zZGQw067plyFPGiwW/IAJdv96XReX7umRdH/ApRwH4twp2v7x9E+ET51ap/9Xxc
+								yFf7PY+Q1qMAkfzqnU8J/Rxf22V5lyZKbIm82/p2iBhxB7kF28xgD9CJ7kY8iH0P2iTkBHgOAEyKmh3VjfxGxrvFdE8GMSx7
+								r7O3Efj++Etnq7XS9pMnToUlZXV7JVvWiwU9Se0SN89NkD4ZiqUT6EpiXXy53YJ/bxdYhcGXXIUb3qcVfKBvDkywVubtrfJS
+								ddAu7TCKUgYdJIRIUul5q/89Lw/gwDJxz+XD39t4BbvLTz7QDAn9+FgGUnrMervCTWGu42WqUSX30OzlPBlH6Q0cEYp8SUQ7
+								8ab2gVeSkdldeKBayBoQ/BuHazFBNdo/WQHg6Tiw0XvTYeK6OT+E3mwrrxLKwSuJgWVht2hZIVxYIbzeJVQMsS2yFCBpcEz6
+								fJUqpVEnEo1ECW6hjHNMq+pIhp3K6ZuS0C/KckQuBk4DLzRI7jaXihm4o+XwkW9Fz0eItbT67pFUg4Ny5rYCUqhcWi3kcihZ
+								XyrpWZoMQcCTSsnqvWs7aK21bxPV2490PTEnP8ITaiE0o86bfN5NR5n8PnUH5pE8BUzVHzUYkg5LfF2VNQzXHMrNmg2vC2D6
+								YRUEZy8Qyqsl+is9L0HVCkTB+BEMjAQuPEzwEFY8i2D+N54V1HlbZa5y9pjBgRNRPFi0PCMQhWbnx8zoLsM7OxmM0MJKqV6p
+								aAWrD8ISymawWWzLAr8/Bdvat3BCQ/oOLpJKc6wS/KizDCmTx5tfxHjTwOyAperWObmUZHe32/mUICRLYM9rN/b+XtJ/tD/K
+								S8OrNFpev081Paa73onygQXtA6C+JT8iR"/>
+				</foreignObject>
+				<svg viewBox="0 0 914.46 738.71" enable-background="new" color-interpolation-filters="sRGB" height="25.9482"
+						preserveAspectRatio="none" width="32.2041" x="0" y="815.942">
+					<defs>
+						<clipPath id="mfid14">
+							<rect id="mfid15" x="0" y="0" width="914.46" height="738.71"/>
+						</clipPath>
+					</defs>
+					<g clip-path="url(#mfid14)">
+						<mask id="mfid13" fill-rule="evenodd">
+							<g>
+								<rect width="914" height="739" fill="white" stroke="none"/>
+							</g>
+						</mask>
+						<g mask="url(#mfid13)">
+							<g transform="matrix(1.5868, 0, 0, 1.283, 0, 0)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="222">
+										<text stroke="none" fill="#000000" x="0,62,131,575" y="0" transform="translate(295,483)"
+												xml:space="preserve">t-1</text>
+									</g>
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="italic" font-weight="400"
+											font-size="384">
+										<text stroke="none" fill="#000000" x="0,768" y="0" transform="translate(70,384)"
+												xml:space="preserve">B</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid16" fill-rule="evenodd" fill="white" stroke="none">
+							<rect x="0" y="0" width="914" height="739"/>
+						</mask>
+					</g>
+				</svg>
+			</switch>
+			<rect v:rectContext="foreign" x="0" y="815.942" width="32.2041" height="25.9482" class="st4"/>
+		</g>
+		<g id="shape36-56" v:mID="36" v:groupContext="shape" transform="translate(321.945,-602.362)">
+			<title>工作表.36</title>
+			<desc>时间戳 t-1 处的 BEV 特征</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="62.2559" cy="834.803" width="124.52" height="14.1732"/>
+			<rect x="0" y="827.717" width="124.512" height="14.1732" class="st4"/>
+			<text x="6.7" y="838.09" class="st14" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>时间戳<tspan class="st9"> </tspan><tspan
+						class="st9">t</tspan><tspan class="st9">-</tspan><tspan class="st9">1 </tspan>处的<tspan class="st9"> </tspan><tspan
+						class="st9">BEV </tspan>特征</text>		</g>
+		<g id="shape37-65" v:mID="37" v:groupContext="shape" transform="translate(590.584,-683.15)">
+			<title>矩形.37</title>
+			<desc>空间信息</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="41.322" cy="824.173" width="82.65" height="35.4331"/>
+			<rect x="0" y="806.457" width="82.6441" height="35.4331" class="st15"/>
+			<text x="17.32" y="827.77" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>空间信息</text>		</g>
+		<g id="shape38-68" v:mID="38" v:groupContext="shape" transform="translate(590.584,-647.717)">
+			<title>矩形.38</title>
+			<desc>时间信息</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="41.322" cy="824.173" width="82.65" height="35.4331"/>
+			<rect x="0" y="806.457" width="82.6441" height="35.4331" class="st16"/>
+			<text x="17.32" y="827.77" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>时间信息</text>		</g>
+		<g id="shape39-71" v:mID="39" v:groupContext="shape" v:layerMember="0" transform="translate(461.067,-731.339)">
+			<title>动态连接线.39</title>
+			<path d="M0 843.31 L170.84 843.31 L170.84 846.61" class="st7"/>
+		</g>
+		<g id="shape41-76" v:mID="41" v:groupContext="shape" v:layerMember="0" transform="translate(432.283,-635.669)">
+			<title>动态连接线.41</title>
+			<path d="M0 839.76 L199.62 839.76 L199.62 837.88" class="st7"/>
+		</g>
+		<g id="shape42-81" v:mID="42" v:groupContext="shape" transform="translate(502.71,-705.827)">
+			<title>工作表.42</title>
+			<desc>BEV查询</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="33.3071" cy="831.969" width="66.62" height="19.8425"/>
+			<rect x="0" y="822.047" width="66.6142" height="19.8425" class="st4"/>
+			<text x="9.31" y="835.92" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>BEV<tspan
+						class="st18">查询</tspan></text>		</g>
+		<g id="shape43-85" v:mID="43" v:groupContext="shape" transform="translate(502.71,-639.213)">
+			<title>工作表.43</title>
+			<desc>BEV查询</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="33.3071" cy="831.969" width="66.62" height="19.8425"/>
+			<rect x="0" y="822.047" width="66.6142" height="19.8425" class="st4"/>
+			<text x="9.31" y="835.92" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>BEV<tspan
+						class="st18">查询</tspan></text>		</g>
+		<g id="shape44-89" v:mID="44" v:groupContext="shape" transform="translate(1569.45,127.288) rotate(90)">
+			<title>工作表.44</title>
+			<rect v:rectContext="foreign" x="0" y="779.256" width="62.6334" height="62.6334" class="st4"/>
+			<image x="0" y="779.256" width="62.6334" height="62.6334" preserveAspectRatio="none" xlink:href="data:image/png;base64,
+						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
+						aiQlAAAAAElFTkSuQmCC"/>
+			<rect v:rectContext="foreign" x="0" y="779.256" width="62.6334" height="62.6334" class="st4"/>
+		</g>
+		<g id="shape46-93" v:mID="46" v:groupContext="shape" transform="translate(719.899,-637.795)">
+			<title>工作表.46</title>
+			<desc>前馈网络</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="38.9764" cy="834.803" width="77.96" height="14.1732"/>
+			<rect x="0" y="827.717" width="77.9528" height="14.1732" class="st4"/>
+			<text x="14.98" y="838.75" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>前馈网络</text>		</g>
+		<g id="shape50-96" v:mID="50" v:groupContext="shape" v:layerMember="0" transform="translate(673.228,-658.346)">
+			<title>动态连接线.50</title>
+			<path d="M0 834.8 L46.29 834.8" class="st7"/>
+		</g>
+		<g id="shape51-101" v:mID="51" v:groupContext="shape" v:layerMember="0" transform="translate(673.228,-693.78)">
+			<title>动态连接线.51</title>
+			<path d="M0 834.8 L46.29 834.8" class="st7"/>
+		</g>
+		<g id="shape52-106" v:mID="52" v:groupContext="shape" transform="translate(278.132,-789.567)">
+			<title>工作表.52</title>
+			<desc>x层编码器</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="55.1072" cy="829.843" width="110.22" height="24.0945"/>
+			<rect x="0" y="817.795" width="110.214" height="24.0945" class="st4"/>
+			<text x="14.61" y="835.24" class="st19" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>x层编码器</text>		</g>
+		<g id="shape54-109" v:mID="54" v:groupContext="shape" transform="translate(269.291,-476.442)">
+			<title>矩形.54</title>
+			<desc>下一层编码器</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="267.591" cy="822.552" width="535.19" height="38.6746"/>
+			<rect x="0" y="803.215" width="535.181" height="38.6746" class="st3"/>
+			<text x="213.59" y="827.95" class="st19" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>下一层编码器</text>		</g>
+		<g id="shape56-112" v:mID="56" v:groupContext="shape" v:layerMember="0" transform="translate(797.386,-690.194)">
+			<title>动态连接线.56</title>
+			<path d="M7.09 841.89 L48.76 841.89 L48.76 1036.3 L15.13 1036.3" class="st7"/>
+		</g>
+		<g id="shape57-117" v:mID="57" v:groupContext="shape" transform="translate(269.291,-377.513)">
+			<title>矩形.57</title>
+			<desc>最后一层编码器</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="267.591" cy="822.552" width="535.19" height="38.6746"/>
+			<rect x="0" y="803.215" width="535.181" height="38.6746" class="st3"/>
+			<text x="204.59" y="827.95" class="st19" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>最后一层编码器</text>		</g>
+		<g id="shape58-120" v:mID="58" v:groupContext="shape" transform="translate(520.583,-407.534)">
+			<title>工作表.58</title>
+			<desc>. . .</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="16.2992" cy="803.109" width="32.6" height="77.5618"/>
+			<rect x="0" y="764.328" width="32.5984" height="77.5618" class="st4"/>
+			<text x="11.8" y="786.91" class="st19" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>.<v:newlineChar/><tspan
+						x="11.8" dy="1.2em" class="st6">.<v:newlineChar/></tspan><tspan x="11.8" dy="1.2em" class="st6">.</tspan></text>		</g>
+		<g id="shape60-125" v:mID="60" v:groupContext="shape" transform="translate(473.669,-281.866)">
+			<title>矩形.60</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<rect x="0" y="792.607" width="126.425" height="49.2825" class="st13"/>
+		</g>
+		<g id="shape61-127" v:mID="61" v:groupContext="shape" transform="translate(520.583,-290.571)">
+			<title>工作表.61</title>
+			<rect v:rectContext="foreign" x="0" y="810.017" width="32.5984" height="31.8727" class="st4"/>
+			<switch>
+				<foreignObject x="0" y="810.017" width="32.5984" height="31.8727"
+						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+					<v:foreignData v:dataType="ole" v:type="33280" v:orgSize="4096" v:data="data:metafile;base64,eNrtVkFrE1EQnre
+								bxCaNJtFabC12W6hC0bSIFLxIN8mm7SExNhGPMY1LXUk2aXYbDR6sCB68RIp/wIt41YuXHgoelSp48CQoojeh2L2JifPevg2
+								lKiShl9J+m8mbNy8782bezLy8fxf6/PTF4BfYgUsgQqPpBc82GeHEEAQQ+LzRbDYdcfMAewq/kdz8DF04ejjfOAjNvsA8lPA
+								xQQIFdBwrUINO0A/uVs3TfiBuCEy+bi/H//WOiDTtdnrKZSiACt3CBwLZ7k+77/W1eloU/S9CGfexALc6tn8U7RPuU7v26e8
+								1zgvc/xRGXgUDJtnTPk5w/10d2Kd7DYo23+Dn5tS/m/eAQ0g9SF4WY4BeJD/SYaQjSAH+TojFAOAYj+lB39hbIPY13jUInrj
+								os3NvZ+3341ciZ97M1MqqNBWelJSl5ZyplXSWSa0VJc6yyVkMx9KJzAWwLr5casM+s4uji9eV04cofqDgLk7otgjNZHGRubv
+								KVmmm27VLOSLQ4qFcmAxwWa/g/M4vTAvrhNbAaU8Ad+/sHeA6y34qHeT1F6QRQO4Z0gqq/05sHV6qTaBcn/CVnCFDyP0SRnn
+								FPia8HQQzWlE1pKR6W5ovFXM6PP8wAFdmhquSd6wK3NNzxK7M8z6nn5i1NWLrXiFxsHWvNBzdpCPdhI2bf9mI1EBcdbwlcrl
+								sJOLRKIEtlFGKqYa2qEvpvKbqefWsNKfnw+Am4PHSI53CJnFN0+VCIZIztHy0dENN5RZVA0LundsKielacaFUwKVoabmiqRW
+								6CCFXIiMpd8xKztG0TYnnzcbbb3gYPSMTSj02IaesYGAmK6d+Dp9C/nhABkuxxqx6JItcMBClQ12xxrOzVp1JpnG8N4uMPJ6
+								NZRWLfuSAn6DrREBg/AiGRgQaHjf4CAoeRHB+EjOFTu6bGCbC+yWNkQ94hSHsEwmyvgqwRnPhIaodTdcMUy1CdQQeCfRN2nt
+								tHiD1aaB12vaJEBD/UwdJOTnXTf0qsATLkMObX8N7UMf/AUk+q7Z1K0voeKf3L62QAIFdQzf3/25iL9sfYo3h1Wtav0/gqrD
+								5McPkfuT3YenuO/wBsTfHjg=="/>
+				</foreignObject>
+				<svg viewBox="0 0 914.46 896.4" enable-background="new" color-interpolation-filters="sRGB" height="31.8727"
+						preserveAspectRatio="none" width="32.5984" x="0" y="810.017">
+					<defs>
+						<clipPath id="mfid18">
+							<rect id="mfid19" x="0" y="0" width="914.46" height="896.4"/>
+						</clipPath>
+					</defs>
+					<g clip-path="url(#mfid18)">
+						<mask id="mfid17" fill-rule="evenodd">
+							<g>
+								<rect width="914" height="896" fill="white" stroke="none"/>
+							</g>
+						</mask>
+						<g mask="url(#mfid17)">
+							<g transform="matrix(2.0402, 0, 0, 1.5556, 0, 0)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="222">
+										<text stroke="none" fill="#000000" x="0,444" y="0" transform="translate(295,483)"
+												xml:space="preserve">t</text>
+									</g>
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="italic" font-weight="400"
+											font-size="384">
+										<text stroke="none" fill="#000000" x="0,768" y="0" transform="translate(70,384)"
+												xml:space="preserve">B</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid20" fill-rule="evenodd" fill="white" stroke="none">
+							<rect x="0" y="0" width="914" height="896"/>
+						</mask>
+					</g>
+				</svg>
+			</switch>
+			<rect v:rectContext="foreign" x="0" y="810.017" width="32.5984" height="31.8727" class="st4"/>
+		</g>
+		<g id="shape62-130" v:mID="62" v:groupContext="shape" v:layerMember="0" transform="translate(529.795,-377.513)">
+			<title>动态连接线.62</title>
+			<path d="M7.09 841.89 L7.09 880.21" class="st7"/>
+		</g>
+	</g>
+</svg>
